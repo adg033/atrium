@@ -1,8 +1,24 @@
-# Curso HTML y CSS3
+# Curso HTML y CSS #
 
-## Inicialización
+## Inicialización ##
 
-- VSC
-- Node
-- Git
+- Instalación de VSC
+- Instalacion de Node
+- Instalación de git
 
+- Crear repositorio git
+```shell
+git init
+```
+
+## HTML: Sectioning ##
+
+<body>
+<header>
+<h1>...
+<section>
+<article>
+<aside>
+<footer>
+
+##

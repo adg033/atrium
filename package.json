@@ -1,16 +1,16 @@
 {
   "name": "atrium",
   "version": "1.0.0",
-  "description": "Ejemplos del curso de html y css",
+  "description": "Ejemplos del curso de HTML y CSS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "html",
-    "css"
+    "HTML",
+    "CSS"
   ],
-  "author": "YO",
+  "author": "Alejandro Cerezo",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.1.3",
