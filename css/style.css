@@ -1,3 +1,7 @@
+*, *::after, *::before, *:after, *:before { 
+    box-sizing: border-box;
+}
+
 body {
     line-height: 1;
     background-image: url(/assets/ipad-2048x2048-thumbnail_01324-256x256.jpg);
